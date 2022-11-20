@@ -6,7 +6,7 @@ import Template from '../public/Template'
 export default function Home() {
   return (
     <div>
-      <Template title="Template" headText="Welcome to Template" desc="Template" />
+      <Template title="Home | Wolf Pack Fingerboards" headText="Wolf Pack Fingerboards" desc="The official site of Wolf Pack Fingerboards." />
     </div>
   )
 }
